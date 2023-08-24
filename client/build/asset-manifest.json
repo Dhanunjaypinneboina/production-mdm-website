@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ed1d06c.css",
+    "main.js": "/static/js/main.84f1cdbd.js",
+    "static/media/mdmLogo.png": "/static/media/mdmLogo.ad9b73196a7327d74cbf.png",
+    "index.html": "/index.html",
+    "main.4ed1d06c.css.map": "/static/css/main.4ed1d06c.css.map",
+    "main.84f1cdbd.js.map": "/static/js/main.84f1cdbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed1d06c.css",
+    "static/js/main.84f1cdbd.js"
+  ]
+}
